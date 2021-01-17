@@ -18,8 +18,8 @@ Swift | xCode, **Apple**
 ## Innhold
 
 ##### Øvinger  
-Øving 1: **State and behaviour** kan bli funnet [**here**](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/Oving1)<br>
-Øving 2: **Encapsulation** Kan bli funnet [**here**]
+Øving 1: **State and behaviour** kan bli funnet [**>her<**](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/Oving1)<br>
+Øving 2: **Encapsulation** Kan bli funnet [**>here<**]
 <br>
 ##### Prosjekt
 <a name="headers"/>
