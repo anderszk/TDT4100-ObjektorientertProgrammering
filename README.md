@@ -21,5 +21,5 @@ Swift | xCode, **Apple**
 [Emphasis](#emphasis)  
 ...snip...    
 <a name="headers"/>
-## Headers
+
 
