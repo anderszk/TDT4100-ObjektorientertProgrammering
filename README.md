@@ -4,7 +4,7 @@ Dette er min repo for ovinger og diverse kodesnutter.
 
 <br>
 
-## IDE
+## IDEer brukt
 Programmeringsspråk | IDE
 ------------ | -------------
 Python | Pycharm, **Jetbrains**
