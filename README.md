@@ -2,6 +2,8 @@
 
 Dette er min repo for ovinger og diverse kodesnutter.
 
+
+
 ## IDE
 Programmeringsspråk | IDE
 ------------ | -------------
