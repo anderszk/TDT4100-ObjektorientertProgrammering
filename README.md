@@ -8,7 +8,7 @@ Dette er min repo for ovinger og diverse kodesnutter.
 Programmeringsspråk | IDE
 ------------ | -------------
 Python | Pycharm, **Jetbrains**
-Webdesign | Webstorm (HTML/CSS/JS), PHPStorm (PHP++), **Jetbrains**
+Webdesign (HTML/CSS/JS,PHP)| Webstorm, PHPStorm, **Jetbrains**
 Arduino-C | Arduino IDE, **Arduino**
 Java | IntelliJ IDEA, **Jetbrains**
 Swift | xCode, **Apple**
