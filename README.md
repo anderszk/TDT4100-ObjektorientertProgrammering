@@ -26,7 +26,6 @@ Swift | xCode, **Apple**
 - :closed_lock_with_key:Øving 5: **Interface** Kan bli funnet [her]()!<br>
 - :closed_lock_with_key:Øving 6: **Patterns** Kan bli funnet [her]()!<br>
 - :closed_lock_with_key:Øving 7: **Inheritance** Kan bli funnet [her]()!<br>
-<br>
 
 ##### Prosjekt
 Tomt :)
