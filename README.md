@@ -10,7 +10,8 @@ Programmeringsspråk | IDE
 Python | Pycharm, **Jetbrains**
 Webdesign (HTML/CSS/JS,PHP)| Webstorm, PHPStorm, **Jetbrains**
 Arduino-C | Arduino IDE, **Arduino**
-Java | IntelliJ IDEA, **Jetbrains**
+**Java** | IntelliJ IDEA, **Jetbrains**
+C | CLion, **Jetbrains**
 Swift | xCode, **Apple**
 
 <br>
