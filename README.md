@@ -21,11 +21,11 @@ Swift | xCode, **Apple**
 ##### Øvinger  
 - :unlock:Øving 1: **State and behaviour** kan bli funnet [her](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/Oving1)<br>
 - :closed_lock_with_key:Øving 2: **Encapsulation** Kan bli funnet [her]()<br>
-- :closed_lock_with_key:Øving 3: **Encapsulation** Kan bli funnet [her]()<br>
-- :closed_lock_with_key:Øving 4: **Encapsulation** Kan bli funnet [her]()<br>
-- :closed_lock_with_key:Øving 5: **Encapsulation** Kan bli funnet [her]()<br>
-- :closed_lock_with_key:Øving 6: **Encapsulation** Kan bli funnet [her]()<br>
-- :closed_lock_with_key:Øving 7: **Encapsulation** Kan bli funnet [her]()<br>
+- :closed_lock_with_key:Øving 3: **Classes and debugging** Kan bli funnet [her]()<br>
+- :closed_lock_with_key:Øving 4: **Object structure** Kan bli funnet [her]()<br>
+- :closed_lock_with_key:Øving 5: **Interface** Kan bli funnet [her]()<br>
+- :closed_lock_with_key:Øving 6: **Patterns** Kan bli funnet [her]()<br>
+- :closed_lock_with_key:Øving 7: **Inheritance** Kan bli funnet [her]()<br>
 <br>
 ##### Prosjekt
 <a name="headers"/>
