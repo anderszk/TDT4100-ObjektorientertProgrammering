@@ -1,10 +1,10 @@
-# TDT4100-ObjektorientertProgrammering
+# TDT4100-ObjektorientertProgrammering :computer:
 
 Dette er min repo for ovinger og diverse kodesnutter.
 
 <br>
 
-## IDEer brukt
+## IDEer brukt :memo:
 Programmeringsspråk | IDE
 ------------ | -------------
 Python | Pycharm, **Jetbrains**
@@ -16,10 +16,10 @@ Swift | xCode, **Apple**
 
 <br>
 
-## Innhold
+## Innhold:pencil:
 
 ##### Øvinger  
-- :lock:Øving 1: **State and behaviour** kan bli funnet [her](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/Oving1)<br>
+- :unlock:Øving 1: **State and behaviour** kan bli funnet [her](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/Oving1)<br>
 - :lock:Øving 2: **Encapsulation** Kan bli funnet [her]()<br>
 - :lock:Øving 3: **Encapsulation** Kan bli funnet [her]()<br>
 - :lock:Øving 4: **Encapsulation** Kan bli funnet [her]()<br>
