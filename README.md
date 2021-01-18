@@ -16,7 +16,7 @@ Swift | xCode, **Apple**
 
 <br>
 
-## Innhold:books:
+## Innhold:notebook_with_decorative_cover:
 
 ##### Øvinger  
 - :unlock:Øving 1: **State and behaviour** kan bli funnet [her](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/Oving1)<br>
