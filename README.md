@@ -1,6 +1,6 @@
 # TDT4100-ObjektorientertProgrammering :computer:
 
-Dette er min repo for ovinger og diverse kodesnutter.
+Dette er min repo for ovinger og diverse kodesnutter. Kildekode i src og tekstfiler i "Oving x"
 
 <br>
 
