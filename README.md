@@ -28,6 +28,8 @@ Swift | xCode, **Apple**
 - :closed_lock_with_key:Øving 7: **Inheritance** Kan bli funnet [her]()!<br>
 
 ##### Prosjekt
-Tomt :)
+Prosjektet for dette emnet er en Atari Breakout app.
+
+Av: Aalerud, Elvira. Kristensen, Anders.
 
 
