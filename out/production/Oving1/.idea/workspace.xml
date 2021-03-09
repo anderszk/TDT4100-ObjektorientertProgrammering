@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60a49a7d-29c0-4ee1-9c91-4e7cce2e1958" name="Default Changelist" comment="fixup! Delete out/production/Oving1 directory">
+      <change afterPath="$PROJECT_DIR$/src/debugging/CoffeeCupProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulation/AccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/named/Named.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/named/NamedComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/named/NamedComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/named/Person1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/named/Person1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/named/Person2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/named/Person2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/twitter/FollowersCountComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/twitter/TwitterAccountTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interfaces/twitter/UserNameComparatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectstructures/Partner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectstructures/PartnerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectstructures/Tweet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectstructures/TweetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/objectstructures/TwitterAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testing/CoffeeCupTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oving1/ClassesAndDebugging/Card.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oving1/ClassesAndDebugging/CardDeckTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oving1/ClassesAndDebugging/CardTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oving1/src/stateandbehavior.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Oving1/stateandbehavior.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassesAndDebugging/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassesAndDebugging/CardDeck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassesAndDebugging/CardDeckTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ClassesAndDebugging/CardTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stateandbehavior.zip" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/anderszk/TDT4100-ObjektorientertProgrammering" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1n7gpa1YxdGKwjrz7AMtYs6GuX7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Build Variants" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="interfaces" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TweetsCountComparatorTest">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NamedComparatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oving1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.named.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interfaces.named" />
+      <option name="MAIN_CLASS_NAME" value="interfaces.named.NamedComparatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oving1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.named.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interfaces.named" />
+      <option name="MAIN_CLASS_NAME" value="interfaces.named.Person1Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oving1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.named.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interfaces.named" />
+      <option name="MAIN_CLASS_NAME" value="interfaces.named.Person2Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Person2Test.testConstructor" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oving1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.named.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interfaces.named" />
+      <option name="MAIN_CLASS_NAME" value="interfaces.named.Person2Test" />
+      <option name="METHOD_NAME" value="testConstructor" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TweetsCountComparatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Oving1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaces.twitter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="interfaces.twitter" />
+      <option name="MAIN_CLASS_NAME" value="interfaces.twitter.TweetsCountComparatorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TweetsCountComparatorTest" />
+        <item itemvalue="JUnit.Person2Test.testConstructor" />
+        <item itemvalue="JUnit.NamedComparatorTest" />
+        <item itemvalue="JUnit.Person2Test" />
+        <item itemvalue="JUnit.Person1Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60a49a7d-29c0-4ee1-9c91-4e7cce2e1958" name="Default Changelist" comment="" />
+      <created>1610746729044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610746729044</updated>
+      <workItem from="1610746730139" duration="4829000" />
+      <workItem from="1610756051986" duration="19713000" />
+      <workItem from="1611130506734" duration="5894000" />
+      <workItem from="1611267003120" duration="649000" />
+      <workItem from="1611347911783" duration="11895000" />
+      <workItem from="1611606110185" duration="4174000" />
+      <workItem from="1611847507295" duration="369000" />
+      <workItem from="1611847927367" duration="1415000" />
+      <workItem from="1611850086852" duration="44000" />
+      <workItem from="1611850170575" duration="1539000" />
+      <workItem from="1611910827726" duration="1847000" />
+      <workItem from="1611922944727" duration="942000" />
+      <workItem from="1611929378426" duration="11675000" />
+      <workItem from="1611942374163" duration="6368000" />
+      <workItem from="1611955714811" duration="1890000" />
+      <workItem from="1611958058537" duration="3497000" />
+      <workItem from="1612035904823" duration="2425000" />
+      <workItem from="1612038598146" duration="936000" />
+      <workItem from="1612107294867" duration="1433000" />
+      <workItem from="1612131392987" duration="462000" />
+      <workItem from="1612169287958" duration="796000" />
+      <workItem from="1612297913559" duration="97000" />
+      <workItem from="1612363007925" duration="85000" />
+      <workItem from="1612363583569" duration="402000" />
+      <workItem from="1612367270190" duration="76000" />
+      <workItem from="1612371244006" duration="3023000" />
+      <workItem from="1612781428387" duration="380000" />
+      <workItem from="1612781869487" duration="447000" />
+      <workItem from="1612798547755" duration="2712000" />
+      <workItem from="1612815163615" duration="911000" />
+      <workItem from="1612872000395" duration="445000" />
+      <workItem from="1613037331395" duration="133000" />
+      <workItem from="1614106184304" duration="48000" />
+      <workItem from="1614245310840" duration="4052000" />
+      <workItem from="1614450589566" duration="3006000" />
+      <workItem from="1614866073036" duration="3003000" />
+      <workItem from="1614884710535" duration="185000" />
+      <workItem from="1614950740144" duration="460000" />
+      <workItem from="1615222879736" duration="5614000" />
+      <workItem from="1615239459084" duration="13000" />
+    </task>
+    <task id="LOCAL-00001" summary="qwe">
+      <created>1611849526272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1611849526272</updated>
+    </task>
+    <task id="LOCAL-00002" summary="qwe">
+      <created>1611851058472</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1611851058473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="qwe">
+      <created>1611851095817</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611851095817</updated>
+    </task>
+    <task id="LOCAL-00004" summary="qwe">
+      <created>1611851171581</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1611851171581</updated>
+    </task>
+    <task id="LOCAL-00005" summary="qwe">
+      <created>1611851672271</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1611851672271</updated>
+    </task>
+    <task id="LOCAL-00006" summary="qwe">
+      <created>1611957451979</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1611957451979</updated>
+    </task>
+    <task id="LOCAL-00007" summary="qwe">
+      <created>1611957640741</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1611957640741</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fixup! Delete out/production/Oving1 directory">
+      <created>1612037148540</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1612037148540</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Revert &quot;Delete empty&quot;&#10;&#10;This reverts commit 7a3f3b0d">
+      <created>1612038152099</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1612038152099</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Revert &quot;Revert &quot;Delete empty&quot;&quot;&#10;&#10;This reverts commit 3863a328">
+      <created>1612038235993</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612038235993</updated>
+    </task>
+    <task id="LOCAL-00011" summary="fixup! fixup! Delete out/production/Oving1 directory">
+      <created>1612038287473</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612038287473</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fixup! fixup! Delete out/production/Oving1 directory">
+      <created>1612038300907</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612038300907</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Revert &quot;fixup! fixup! Delete out/production/Oving1 directory&quot;&#10;&#10;This reverts commit 0c903c72">
+      <created>1612038391222</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612038391222</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Revert &quot;Delete ClassesAndDebugging directory&quot;&#10;&#10;This reverts commit 9c3d6559">
+      <created>1612038426678</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1612038426678</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="qwe" />
+    <MESSAGE value="fixup! Delete out/production/Oving1 directory" />
+    <MESSAGE value="Revert &quot;Delete empty&quot;&#10;&#10;This reverts commit 7a3f3b0d" />
+    <MESSAGE value="Revert &quot;Revert &quot;Delete empty&quot;&quot;&#10;&#10;This reverts commit 3863a328" />
+    <MESSAGE value="fixup! fixup! Delete out/production/Oving1 directory" />
+    <MESSAGE value="Revert &quot;fixup! fixup! Delete out/production/Oving1 directory&quot;&#10;&#10;This reverts commit 0c903c72" />
+    <MESSAGE value="Revert &quot;Delete ClassesAndDebugging directory&quot;&#10;&#10;This reverts commit 9c3d6559" />
+    <MESSAGE value="squash! Delete ClassesAndDebugging directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="squash! Delete ClassesAndDebugging directory" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/debugging/CoffeeCupProgram.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Øvinger$CoffeeCupProgram.ic" NAME="CoffeeCupProgram Coverage Results" MODIFIED="1612027385458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>debugging.*</FILTER>
+    </SUITE>
+  </component>
+</project>
