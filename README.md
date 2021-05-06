@@ -20,12 +20,12 @@ Swift | xCode, **Apple**
 
 ##### Øvinger  
 - :unlock:Øving 1: **State and behaviour** kan bli funnet [her](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/Oving1)!<br>
-- :closed_lock_with_key:Øving 2: **Encapsulation** Kan bli funnet [her]()!<br>
-- :closed_lock_with_key:Øving 3: **Classes and debugging** Kan bli funnet [her]()!<br>
-- :closed_lock_with_key:Øving 4: **Object structure** Kan bli funnet [her]()!<br>
-- :closed_lock_with_key:Øving 5: **Interface** Kan bli funnet [her]()!<br>
-- :closed_lock_with_key:Øving 6: **Patterns** Kan bli funnet [her]()!<br>
-- :closed_lock_with_key:Øving 7: **Inheritance** Kan bli funnet [her]()!<br>
+- :unlock:Øving 2: **Encapsulation** Kan bli funnet [her](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/src/encapsulation)!<br>
+- :unlock:Øving 3: **Classes and debugging** Kan bli funnet [her](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/src/classes)!<br>
+- :unlock:Øving 4: **Object structure** Kan bli funnet [her](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/src/objectstructures)!<br>
+- :unlock:Øving 5: **Interface** Kan bli funnet [her](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/src/interfaces)!<br>
+- 🔐:Øving 6: **Patterns** Kan bli funnet [her]()!<br>
+- :unlock:Øving 7: **Inheritance** Kan bli funnet [her](https://github.com/anderszk/TDT4100-ObjektorientertProgrammering/tree/main/src/inheritance)!<br>
 
 ##### Prosjekt
 Prosjektet for dette emnet er en Atari Breakout app.
